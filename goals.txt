@@ -1,8 +1,8 @@
-My Personal And Academic Goals For Next Year
+##My Personal And Academic Goals For Next Year
 
 
-1. To apply for scholarship abroad, to further the knowledge I've acquired in Tech at ALX
-2. To resume my leadership class in Abuja.
-3. To settle for a sustainable job.
-4. To put into practice my enterprenuerer skills and abilities.
-5. To be politically relevant
+- To apply for scholarship abroad, to further the knowledge I've acquired in Tech at ALX
+- To resume my leadership class in Abuja.
+- To settle for a sustainable job.
+- To put into practice my enterprenuerer skills and abilities.
+- To be politically relevant
