@@ -1,1 +1,4 @@
+WHAT I HAVE LEARNED FROM THIS COURSE
+
+
 I've learnt how to create a new repository on github, how to create a file, how to pull, and how to commit my changes to the repository
