@@ -1,4 +1,7 @@
-My Personal and Academic Goals for Next Year
+# MyFirstRepo
+My first ALX pathway GitHub repository
+
+ My Personal and Academic Goals for Next Year:
 
 - To apply for scholarship abroad, to further the knowledge I've acquired in Tech at ALX
 - To resume my leadership class in Abuja.
